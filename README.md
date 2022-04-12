@@ -5,7 +5,3 @@ I study Computer Science and I am entering the world of programming 🌍💻
 Artificial Intelligence 👾, Robotics 🤖, Physics/Astrophysics 🔭🌌, Space Exploration 🚀, Neuroscience 🧠
 
 3D Graphics (I learn Blender), Travels 🧭, Sailing ⚓⛵, Books 📚, Movies 🎞️, Computer Games 🎮
-
-[My webpage created with GitHub Pages](https://asgardianvoyager.github.io/)
-
-[My fork](https://github.com/AsgardianVoyager/lama)
