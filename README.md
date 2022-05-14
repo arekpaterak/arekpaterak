@@ -1,5 +1,5 @@
 # Hi, I'm Arek 😃
-I study Computer Science and I am entering the world of programming 🌍💻
+I study Computer Science and I'm entering the world of programming 🌍💻
 
 ## My various interests
 Artificial Intelligence 👾, Robotics 🤖, Physics/Astrophysics 🔭🌌, Space Exploration 🚀, Neuroscience 🧠
