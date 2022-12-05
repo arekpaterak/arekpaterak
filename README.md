@@ -1,7 +1,16 @@
 # Hi, I'm Arek 😃
-I study Computer Science and I'm entering the world of programming 🌍💻
+I study Computer Science with focus on AI and I'm entering the world of programming 🌍💻
 
 ## My various interests
-Artificial Intelligence 👾, Robotics 🤖, Physics/Astrophysics 🔭🌌, Space Exploration 🚀, Neuroscience 🧠
+Artificial Intelligence 👾, Robotics 🤖, Computer Graphics 🖥️
 
-3D Graphics (I learn Blender), Travels 🧭, Sailing ⚓⛵, Books 📚, Movies 🎞️, Computer Games 🎮
+Physics/Astrophysics 🔭🌌, Space Exploration 🚀, Mathematics 🧮
+
+Neuroscience 🧠, Architecture 🏛️
+
+### Hobbys
+Travels 🧭, Books 📚, Movies 🎞️, Computer Games 🎮, Gym 💪, Photography 📷, Sailing ⚓⛵, 3D Graphics (I learn Blender), 
+
+## My favourite programming languages
+- Python 🐍
+- more to come
