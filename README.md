@@ -9,7 +9,7 @@ Physics/Astrophysics 🔭🌌, Space Exploration 🚀, Mathematics 🧮
 Neuroscience 🧠, Architecture 🏛️
 
 ### Hobbys
-Travels 🧭, Books 📚, Movies 🎞️, Computer Games 🎮, Gym 💪, Photography 📷, Sailing ⚓⛵, 3D Graphics (I learn Blender), 
+Travels 🧭, Books 📚, Movies 🎞️, Computer Games 🎮, Gym 💪, Photography 📷, Sailing ⚓⛵, 3D Graphics (I learn Blender)
 
 ## My favourite programming languages
 - Python 🐍
