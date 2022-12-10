@@ -14,3 +14,8 @@ Travels 🧭, Books 📚, Movies 🎞️, Computer Games 🎮, Gym 💪, Photogr
 ## My favourite programming languages
 - Python 🐍
 - more to come
+
+## Other programming languages I know
+- Java
+- C++
+- C
