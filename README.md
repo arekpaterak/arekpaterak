@@ -23,3 +23,4 @@ Gym 💪, Travels 🧭, Sailing ⚓⛵
 - Java
 - C++
 - C
+- Prolog
