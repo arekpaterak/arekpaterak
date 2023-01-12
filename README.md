@@ -2,11 +2,11 @@
 I study Computer Science with focus on AI and I'm entering the world of programming 🌍💻
 
 ## My various interests
-### Related to Computer Science:
+### Related to Computer Science
 
 Artificial Intelligence 👾, Robotics 🤖, Computer Graphics 🖥️
 
-### Others:
+### Others
 
 Physics ⚛️, Astrophysics 🔭🪐🌌, Mathematics 🧮
 
