@@ -4,9 +4,9 @@ I study Computer Science with focus on AI and I'm entering the world of programm
 ## My various interests
 Artificial Intelligence 👾, Robotics 🤖, Computer Graphics 🖥️
 
-Physics/Astrophysics 🔭🌌, Space Exploration 🚀, Mathematics 🧮
+Physics/Astrophysics 🔭🌌, Mathematics 🧮
 
-Neuroscience 🧠, Architecture 🏛️
+Space Exploration 🚀, Neuroscience 🧠, Architecture 🏛️
 
 ### Hobbys
 Books 📚, Movies 🎞️, Computer Games 🎮
@@ -24,3 +24,4 @@ Gym 💪, Travels 🧭, Sailing ⚓⛵
 - C++
 - C
 - Prolog
+- even more to come
