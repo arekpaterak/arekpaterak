@@ -2,7 +2,7 @@
 I study Computer Science with focus on AI and I'm entering the world of programming 🌍💻
 
 ## My various interests
-### Related to Computer Science
+### Related to Programming
 
 Artificial Intelligence 👾, Robotics 🤖, Computer Graphics 🖥️
 
@@ -17,15 +17,16 @@ Philosophy (Stoicism) 📜
 ### Hobbys
 Books 📚, Movies 🎞️, Computer Games 🎮
 
-Photography 📷, 3D Graphics (I learn Blender)
-
 Gym 💪, Travels 🧭, Sailing ⚓⛵
 
-## My favourite programming languages
+Photography 📷, 3D Graphics (I learn Blender)
+
+## Programming languages
+### My favourites
 - Python 🐍
 - more to come
 
-## Other programming languages I know
+### Others
 - Java
 - C++
 - C
