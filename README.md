@@ -1,5 +1,5 @@
 # Hi, I'm Arek 😃
-I study Computer Science with focus on AI and I'm entering the world of programming 🌍💻
+I study Computer Science with focus on Artificial Intelligence and I'm entering the world of programming 🌍💻
 
 ## My various interests
 ### Related to Programming
