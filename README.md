@@ -6,7 +6,7 @@ I study Computer Science with focus on Artificial Intelligence and I'm entering 
 
 Artificial Intelligence 👾, Robotics 🤖, Computer Graphics 🖥️
 
-### Others
+### Other
 
 Physics ⚛️, Astrophysics 🔭🪐🌌, Mathematics 🧮
 
@@ -22,11 +22,11 @@ Gym 💪, Travels 🧭, Sailing ⚓⛵
 Photography 📷, 3D Graphics (I learn Blender)
 
 ## Programming languages
-### My favourites
+### My favourite
 - Python 🐍
 - more to come
 
-### Others
+### Other
 - Java
 - C++
 - C
