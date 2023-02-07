@@ -1,6 +1,18 @@
 # Hi, I'm Arek 😃
 I study Computer Science with focus on Artificial Intelligence and I'm entering the world of programming 🌍💻
 
+## Programming languages
+### My favourite
+- Python 🐍
+- more to come
+
+### Other
+- Java
+- C++
+- C
+- Prolog
+- even more to come
+
 ## My various interests
 ### Related to Programming
 
@@ -20,15 +32,3 @@ Books 📚, Movies 🎞️, Computer Games 🎮
 Gym 💪, Travels 🧭, Sailing ⚓⛵
 
 Photography 📷, 3D Graphics (I learn Blender)
-
-## Programming languages
-### My favourite
-- Python 🐍
-- more to come
-
-### Other
-- Java
-- C++
-- C
-- Prolog
-- even more to come
