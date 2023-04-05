@@ -8,6 +8,7 @@ I study Computer Science with focus on Artificial Intelligence and I'm entering 
 
 ### Other
 - Java
+- C#
 - C++
 - C
 - Prolog
