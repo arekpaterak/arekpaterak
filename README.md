@@ -27,7 +27,7 @@ Space Exploration 🚀, Neuroscience 🧠, Architecture 🏛️
 
 Philosophy (Stoicism) 📜
 
-### Hobbys
+### Hobbies
 Books 📚, Movies 🎞️, Computer Games 🎮
 
 Gym 💪, Travels 🧭, Sailing ⚓⛵
